@@ -53,6 +53,8 @@ This repository captures knowledge I have found interesting and that has helped 
 | 10  | Paper - Using historical data for Bayesian sample size determination                                 | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Paper%20-%20Santis-2007-Using%20historical%20data%20for%20Bayesian%20sample%20size.pdf) |
 </details>
 
+#### Book: Doing Bayesian Analysis - John K. Kruschke 
+
 <details><summary>Open to view Book: Doing Bayesian Analysis - John K. Kruschke</summary>
 
 | ID  | Description |                                                       Link |
