@@ -5,7 +5,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Learning to Rank
 
-<details><summary>Open to view Learning to Rank</summary>
+<details><summary>Open to view Learning to Rank: papers, notes and youtube videos</summary>
 
 | ID    | Description                                                                                                     |                                                                                                                                                                                                                                                                                                   Link |
 |-------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -37,7 +37,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Bayesian Analysis - Getting started
 
-<details><summary>Open to view Bayesian Analysis - Getting started</summary>
+<details><summary>Open to view Bayesian Analysis - Getting started: papers, notes and youtube videos</summary>
 
 | ID  | Description                                                                                          |                                                                                                                                                                                                 Link |
 |-----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -51,4 +51,11 @@ This repository captures knowledge I have found interesting and that has helped 
 | 8   | Youtube video: Eric Ma - Beyond Two Groups: Generalized Bayesian A/B/C... Testing - PyCon 2019       |                                                                                                                            [Link to youtube video](https://www.youtube.com/watch?v=Pt37qA351yk&t=1s) |
 | 9   | Paper - Bayesian Sample Size Determination for Binomial Proportion                                   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Paper%20-%20Bayesian%20Sample%20Size%20Determination%20for%20Binomial%20Proportion.pdf) |
 | 10  | Paper - Using historical data for Bayesian sample size determination                                 | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Paper%20-%20Santis-2007-Using%20historical%20data%20for%20Bayesian%20sample%20size.pdf) |
+</details>
+
+<details><summary>Open to view Book: Doing Bayesian Analysis - John K. Kruschke</summary>
+
+| ID  | Description |                                                       Link |
+|-----|-------------|-----------------------------------------------------------:|
+| 1   | Full Book   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
 </details>
