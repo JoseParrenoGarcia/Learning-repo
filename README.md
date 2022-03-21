@@ -82,4 +82,50 @@ As you can see, I have only completed part of the book. I picked the areas that 
 | 1   | Full Book   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
 </details>
 
+## Causal Inference - Getting started
+
+<details><summary>Open to view Causal Inference - Getting started: papers, notes and youtube videos</summary>
+
+| ID  | Description |                                                                 Link |
+|-----|-------------|---------------------------------------------------------------------:|
+| 1   | XXX         | [Link to youtube video](https://www.youtube.com/watch?v=7teudGhdnqo) |
+</details>
+
+#### Book: Causal Inference for the Brave and the True
+
+<details><summary>Open to view Book: Causal Inference for the Brave and the True</summary>
+
+| ID  | Description |                                                                                                                                                Link |
+|-----|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 0   | Main Link   |                                                  [Link to online book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) |
+| 1   | Chapter 1   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 2   | Chapter 2   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 3   | Chapter 3   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 4   | Chapter 4   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 5   | Chapter 5   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 6   | Chapter 6   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 7   | Chapter 7   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 8   | Chapter 8   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 9   | Chapter 9   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 10  | Chapter 10  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 11  | Chapter 11  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 12  | Chapter 12  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 13  | Chapter 13  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 14  | Chapter 14  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 15  | Chapter 15  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 16  | Chapter 16  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 17  | Chapter 17  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 18  | Chapter 18  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 19  | Chapter 19  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 20  | Chapter 20  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/bayesian-analysis-getting-started/Book%20-%20bayesian_data_analysis.pdf) |
+| 21  | Chapter 21  |                                                                                                                                                  xx |
+| 22  | Chapter 22  |                                                                                                                                                  xx |
+| 23  | Chapter 23  |                                                                                                                                                  xx |
+
+</details>
+
+
+
+
+
 
