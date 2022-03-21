@@ -57,7 +57,29 @@ This repository captures knowledge I have found interesting and that has helped 
 
 <details><summary>Open to view Book: Doing Bayesian Analysis - John K. Kruschke</summary>
 
+As you can see, I have only completed part of the book. I picked the areas that I required at that point in time, but all the chapters can be found in the full book.
+
+| ID  | Description |                                                       Link |
+|-----|-------------|-----------------------------------------------------------:|
+| 1   | Full Book   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 2   | Chapter 1   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 3   | Chapter 2   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 4   | Chapter 3   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 5   | Chapter 4   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 6   | Chapter 5   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 7   | Chapter 6   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 8   | Chapter 11  | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 9   | Chapter 12  | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 10  | Chapter 13  | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+</details>
+
+#### Book: Bayesian Data Analysis - Third Edition
+
+<details><summary>Open to view Book: Bayesian Data Analysis - Third Edition</summary>
+
 | ID  | Description |                                                       Link |
 |-----|-------------|-----------------------------------------------------------:|
 | 1   | Full Book   | [Link to pdf](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
 </details>
+
+
