@@ -33,3 +33,18 @@ This repository captures knowledge I have found interesting and that has helped 
 | 20    | Blog - A/B Testing Search: thinking like a scientist                                                            |                                                                                                                                                                                           [Link to blog](https://jamesrubinstein.medium.com/a-b-testing-search-thinking-like-a-scientist-1cc34b88392e) |
 
 
+## Bayesian Analysis - Getting started
+
+
+| ID  | Description                                                                                          |                                                                                                                           Link |
+|-----|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------:|
+| 1   | Youtube video: Introduction to Bayesian data analysis - part 1: What is Bayes?                       |                                                           [Link to youtube video](https://www.youtube.com/watch?v=3OJEae7Qb_o) |
+| 2   | Youtube video: Introduction to Bayesian data analysis - Part 2: Why use Bayes?                       |                                                   [Link to youtube video](https://www.youtube.com/watch?v=mAUwjSo5TJE&t=1021s) |
+| 3   | Youtube video: Introduction to Bayesian data analysis - part 3: How to do Bayes?                     |                                                   [Link to youtube video](https://www.youtube.com/watch?v=Ie-6H_r7I5A&t=1211s) |
+| 4   | Notes on introduction to Bayesian data analysis                                                      | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/learning-to-rank/1.1-Learning-to-Rank-Dev-Conf.pdf) |
+| 5   | Youtube video: Easy as ABC: A Quick Introduction to Bayesian A/B Testing in Python (Will Barker)     |                                                    [Link to youtube video](https://www.youtube.com/watch?v=nRLI_KbvZTQ&t=353s) |
+| 6   | Youtube video: Bayesian A/B Testing - Marc Garcia                                                    |                                                           [Link to youtube video](https://www.youtube.com/watch?v=UxEFAkDlkiA) |
+| 7   | Youtube video: Ruben Mak - Successfully applying Bayesian statistics to A/B testing in your business |                                                   [Link to youtube video](https://www.youtube.com/watch?v=8huhVCMmS_c&t=1599s) |
+| 8   | Youtube video: Eric Ma - Beyond Two Groups: Generalized Bayesian A/B/C... Testing - PyCon 2019       |                                                      [Link to youtube video](https://www.youtube.com/watch?v=Pt37qA351yk&t=1s) |
+| 9   | Paper - Bayesian Sample Size Determination for Binomial Proportion                                   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/learning-to-rank/1.1-Learning-to-Rank-Dev-Conf.pdf) |
+| 10  | Paper - Using historical data for Bayesian sample size determination                                 | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/learning-to-rank/1.1-Learning-to-Rank-Dev-Conf.pdf) |
