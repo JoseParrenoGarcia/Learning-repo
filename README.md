@@ -86,11 +86,12 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 <details><summary>Open to view Causal Inference - Getting started: papers, notes and youtube videos</summary>
 
-| ID  | Description                                                                                  |                                                                                                                                            Link |
-|-----|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1   | Youtube video: Inferring the effect of an event using CausalImpact by Kay Brodersen          |                                                           [Link to youtube video](https://www.youtube.com/watch?v=GTgZfCltMm8&feature=emb_logo) |
-| 2   | Youtube video: What is causal inference, and why should data scientists know? by Ludvig Hult |                                                           [Link to youtube video](https://www.youtube.com/watch?v=dFp2Ou52-po&feature=emb_logo) |
-| 3   | Notes: Causal Inference Getting Started                                                      | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/Causal%20Inference%20Getting%20Started%20notes.pdf) |
+| ID  | Description                                                                                                                           |                                                                                                                                            Link |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1   | Youtube video: Inferring the effect of an event using CausalImpact by Kay Brodersen                                                   |                                                           [Link to youtube video](https://www.youtube.com/watch?v=GTgZfCltMm8&feature=emb_logo) |
+| 2   | Youtube video: What is causal inference, and why should data scientists know? by Ludvig Hult                                          |                                                           [Link to youtube video](https://www.youtube.com/watch?v=dFp2Ou52-po&feature=emb_logo) |
+| 3   | Notes: Causal Inference Getting Started                                                                                               | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/Causal%20Inference%20Getting%20Started%20notes.pdf) |
+| 4   | Youtube video: SI 2021 Methods Lectures: Causal Inference Using Synthetic Controls&Regression Discontinuity Designs by Alberto Abadie |                                                                            [Link to youtube video](https://www.youtube.com/watch?v=T2p9Wg650bY) |
 </details>
 
 #### Book: Causal Inference for the Brave and the True
