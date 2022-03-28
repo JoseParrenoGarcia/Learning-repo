@@ -121,9 +121,9 @@ As you can see, I have only completed part of the book. I picked the areas that 
 | 18  | Chapter 18  |       [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/18%20-%20Heterogeneous%20Treatment%20Effects%20and%20Personal-.pdf) |
 | 19  | Chapter 19  |      [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/19%20-%20Evaluating%20Causal%20Models%20-%20Causal%20Inference-.pdf) |
 | 20  | Chapter 20  |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/20%20-%20Plug-and-Play%20Estimators%20-%20Causal%20Inference-.pdf) |
-| 21  | Chapter 21  |                                                                                                                                                                    xx |
-| 22  | Chapter 22  |                                                                                                                                                                    xx |
-| 23  | Chapter 23  |                                                                                                                                                                    xx |
+| 21  | Chapter 21  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/21%20-%20Meta%20Learners%20-%20Causal%20Inference%20for%20the%20Bra-.pdf) |
+| 22  | Chapter 22  |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/22%20-%20Debiased-2FOrthogonal%20Machine%20Learning%20-%20Causa-.pdf) |
+| 23  | Chapter 23  |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/23%20-%20The%20Difference-in-Differences%20Saga%20-%20Causal-.pdf) |
 
 </details>
 
