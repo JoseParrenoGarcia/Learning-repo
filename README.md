@@ -98,32 +98,33 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 <details><summary>Open to view Book: Causal Inference for the Brave and the True</summary>
 
-| ID  | Description |                                                                                                                                                                  Link |
-|-----|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 0   | Main Link   |                                                                    [Link to online book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) |
-| 1   | Chapter 1   |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/01%20-%20Introduction%20To%20Causality%20-%20Causal%20Inference-.pdf) |
-| 2   | Chapter 2   |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/02%20-%20Randomised%20Experiments%20-%20Causal%20Inference%20fo-.pdf) |
-| 3   | Chapter 3   |         [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/03%20-%20Stats%20Review-%20The%20Most%20Dangerous%20Equation.pdf) |
-| 4   | Chapter 4   |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/04%20-%20Graphical%20Causal%20Models%20-%20Causal%20Inference%20f-.pdf) |
-| 5   | Chapter 5   |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/05%20-%20The%20Unreasonable%20Effectiveness%20of%20Linear%20Reg-.pdf) |
-| 6   | Chapter 6   |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/06%20-%20Grouped%20and%20Dummy%20Regression%20-%20Causal%20Infere-.pdf) |
-| 7   | Chapter 7   |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/07%20-%20Beyond%20Confounders%20-%20Causal%20Inference%20for%20th-.pdf) |
-| 8   | Chapter 8   |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/08%20-%20Instrumental%20Variables%20-%20Causal%20Inference%20fo-.pdf) |
-| 9   | Chapter 9   | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/09%20-%20Non%20Compliance%20and%20LATE%20-%20Causal%20Inference%20f-.pdf) |
-| 10  | Chapter 10  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/10%20-%20Matching%20-%20Causal%20Inference%20for%20the%20Brave%20an-.pdf) |
-| 11  | Chapter 11  |    [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/11%20-%20Propensity%20Score%20-%20Causal%20Inference%20for%20the-.pdf) |
-| 12  | Chapter 12  |      [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/12%20-%20Doubly%20Robust%20Estimation%20-%20Causal%20Inference-.pdf) |
-| 13  | Chapter 13  |         [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/13%20-%20Difference-in-Differences%20-%20Causal%20Inference-.pdf) |
-| 14  | Chapter 14  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/14%20-%20Panel%20Data%20and%20Fixed%20Effects%20-%20Causal%20Infere-.pdf) |
-| 15  | Chapter 15  |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/15%20-%20Synthetic%20Control%20-%20Causal%20Inference%20for%20the-.pdf) |
-| 16  | Chapter 16  |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/16%20-%20Regression%20Discontinuity%20Design%20-%20Causal%20Inf-.pdf) |
-| 17  | Chapter 17  |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/17%20-%20Predictive%20Models%20101%20-%20Causal%20Inference%20for-.pdf) |
-| 18  | Chapter 18  |       [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/18%20-%20Heterogeneous%20Treatment%20Effects%20and%20Personal-.pdf) |
-| 19  | Chapter 19  |      [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/19%20-%20Evaluating%20Causal%20Models%20-%20Causal%20Inference-.pdf) |
-| 20  | Chapter 20  |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/20%20-%20Plug-and-Play%20Estimators%20-%20Causal%20Inference-.pdf) |
-| 21  | Chapter 21  | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/21%20-%20Meta%20Learners%20-%20Causal%20Inference%20for%20the%20Bra-.pdf) |
-| 22  | Chapter 22  |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/22%20-%20Debiased-2FOrthogonal%20Machine%20Learning%20-%20Causa-.pdf) |
-| 23  | Chapter 23  |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/23%20-%20The%20Difference-in-Differences%20Saga%20-%20Causal-.pdf) |
+| ID  | Description   |                                                                                                                                                                  Link |
+|-----|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 0   | Main Link     |                                                                    [Link to online book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) |
+| 0.1 | Summary notes |                                     [Powerpoint notes](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/Causal%20Inference%20notes.pptx) |
+| 1   | Chapter 1     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/01%20-%20Introduction%20To%20Causality%20-%20Causal%20Inference-.pdf) |
+| 2   | Chapter 2     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/02%20-%20Randomised%20Experiments%20-%20Causal%20Inference%20fo-.pdf) |
+| 3   | Chapter 3     |         [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/03%20-%20Stats%20Review-%20The%20Most%20Dangerous%20Equation.pdf) |
+| 4   | Chapter 4     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/04%20-%20Graphical%20Causal%20Models%20-%20Causal%20Inference%20f-.pdf) |
+| 5   | Chapter 5     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/05%20-%20The%20Unreasonable%20Effectiveness%20of%20Linear%20Reg-.pdf) |
+| 6   | Chapter 6     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/06%20-%20Grouped%20and%20Dummy%20Regression%20-%20Causal%20Infere-.pdf) |
+| 7   | Chapter 7     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/07%20-%20Beyond%20Confounders%20-%20Causal%20Inference%20for%20th-.pdf) |
+| 8   | Chapter 8     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/08%20-%20Instrumental%20Variables%20-%20Causal%20Inference%20fo-.pdf) |
+| 9   | Chapter 9     | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/09%20-%20Non%20Compliance%20and%20LATE%20-%20Causal%20Inference%20f-.pdf) |
+| 10  | Chapter 10    | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/10%20-%20Matching%20-%20Causal%20Inference%20for%20the%20Brave%20an-.pdf) |
+| 11  | Chapter 11    |    [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/11%20-%20Propensity%20Score%20-%20Causal%20Inference%20for%20the-.pdf) |
+| 12  | Chapter 12    |      [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/12%20-%20Doubly%20Robust%20Estimation%20-%20Causal%20Inference-.pdf) |
+| 13  | Chapter 13    |         [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/13%20-%20Difference-in-Differences%20-%20Causal%20Inference-.pdf) |
+| 14  | Chapter 14    | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/14%20-%20Panel%20Data%20and%20Fixed%20Effects%20-%20Causal%20Infere-.pdf) |
+| 15  | Chapter 15    |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/15%20-%20Synthetic%20Control%20-%20Causal%20Inference%20for%20the-.pdf) |
+| 16  | Chapter 16    |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/16%20-%20Regression%20Discontinuity%20Design%20-%20Causal%20Inf-.pdf) |
+| 17  | Chapter 17    |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/17%20-%20Predictive%20Models%20101%20-%20Causal%20Inference%20for-.pdf) |
+| 18  | Chapter 18    |       [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/18%20-%20Heterogeneous%20Treatment%20Effects%20and%20Personal-.pdf) |
+| 19  | Chapter 19    |      [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/19%20-%20Evaluating%20Causal%20Models%20-%20Causal%20Inference-.pdf) |
+| 20  | Chapter 20    |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/20%20-%20Plug-and-Play%20Estimators%20-%20Causal%20Inference-.pdf) |
+| 21  | Chapter 21    | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/21%20-%20Meta%20Learners%20-%20Causal%20Inference%20for%20the%20Bra-.pdf) |
+| 22  | Chapter 22    |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/22%20-%20Debiased-2FOrthogonal%20Machine%20Learning%20-%20Causa-.pdf) |
+| 23  | Chapter 23    |        [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/23%20-%20The%20Difference-in-Differences%20Saga%20-%20Causal-.pdf) |
 
 </details>
 
