@@ -128,6 +128,26 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 </details>
 
+## Storytelling with data
+
+#### Book: Storytelling with data - Cole Nussbaumer Knaflic
+
+<details><summary>Open to view Book: Causal Inference for the Brave and the True</summary>
+
+| ID  | Description   |                                                                                                                                                                  Link |
+|-----|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 0   | Full book     |                                                                    [Link to online book](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) |
+| 1   | Chapter 1     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/01%20-%20Introduction%20To%20Causality%20-%20Causal%20Inference-.pdf) |
+| 2   | Chapter 2     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/02%20-%20Randomised%20Experiments%20-%20Causal%20Inference%20fo-.pdf) |
+| 3   | Chapter 3     |         [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/03%20-%20Stats%20Review-%20The%20Most%20Dangerous%20Equation.pdf) |
+| 4   | Chapter 4     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/04%20-%20Graphical%20Causal%20Models%20-%20Causal%20Inference%20f-.pdf) |
+| 5   | Chapter 5     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/05%20-%20The%20Unreasonable%20Effectiveness%20of%20Linear%20Reg-.pdf) |
+| 6   | Chapter 6     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/06%20-%20Grouped%20and%20Dummy%20Regression%20-%20Causal%20Infere-.pdf) |
+| 7   | Chapter 7     |   [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/07%20-%20Beyond%20Confounders%20-%20Causal%20Inference%20for%20th-.pdf) |
+| 8   | Chapter 8     |     [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/08%20-%20Instrumental%20Variables%20-%20Causal%20Inference%20fo-.pdf) |
+| 9   | Chapter 9     | [Link to pdf](https://github.com/JoseParrenoGarcia/Learning-repo/blob/main/causal-inference/09%20-%20Non%20Compliance%20and%20LATE%20-%20Causal%20Inference%20f-.pdf) |
+
+</details>
 
 
 
