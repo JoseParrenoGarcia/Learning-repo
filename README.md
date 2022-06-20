@@ -132,7 +132,7 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 #### Book: Storytelling with data - Cole Nussbaumer Knaflic
 
-<details><summary>Open to view Book: Causal Inference for the Brave and the True</summary>
+<details><summary>Open to view Book</summary>
 
 | ID  | Description |                                                                                                                                                                          Link |
 |-----|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
