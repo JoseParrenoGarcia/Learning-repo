@@ -5,7 +5,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Learning to Rank
 
-<details><summary>Open to view Learning to Rank: papers, notes and youtube videos</summary>
+<details><summary>Open to view papers, notes and youtube videos</summary>
 
 | ID    | Description                                                                                                     |                                                                                                                                                                                                                                                                                                   Link |
 |-------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -37,7 +37,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 ## Bayesian Analysis - Getting started
 
-<details><summary>Open to view Bayesian Analysis - Getting started: papers, notes and youtube videos</summary>
+<details><summary>Open to view papers, notes and youtube videos</summary>
 
 | ID  | Description                                                                                          |                                                                                                                                                                                                 Link |
 |-----|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -55,7 +55,7 @@ This repository captures knowledge I have found interesting and that has helped 
 
 #### Book: Doing Bayesian Analysis - John K. Kruschke 
 
-<details><summary>Open to view Book: Doing Bayesian Analysis - John K. Kruschke</summary>
+<details><summary>Open to view Book</summary>
 
 As you can see, I have only completed part of the book. I picked the areas that I required at that point in time, but all the chapters can be found in the full book.
 
@@ -75,7 +75,7 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 #### Book: Bayesian Data Analysis - Third Edition
 
-<details><summary>Open to view Book: Bayesian Data Analysis - Third Edition</summary>
+<details><summary>Open to view Book</summary>
 
 | ID  | Description |                                                                                                                                                Link |
 |-----|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -84,7 +84,7 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 ## Causal Inference - Getting started
 
-<details><summary>Open to view Causal Inference - Getting started: papers, notes and youtube videos</summary>
+<details><summary>Open to view papers, notes and youtube videos</summary>
 
 | ID  | Description                                                                                                                           |                                                                                                                                            Link |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -96,7 +96,7 @@ As you can see, I have only completed part of the book. I picked the areas that 
 
 #### Book: Causal Inference for the Brave and the True
 
-<details><summary>Open to view Book: Causal Inference for the Brave and the True</summary>
+<details><summary>Open to view Book</summary>
 
 | ID  | Description   |                                                                                                                                                                  Link |
 |-----|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
